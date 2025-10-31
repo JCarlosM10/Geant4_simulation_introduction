@@ -1,0 +1,4 @@
+/home/juancarlos/Geant4-tutorials/build/CMakeFiles/sim.dir
+/home/juancarlos/Geant4-tutorials/build/CMakeFiles/Tutorial.dir
+/home/juancarlos/Geant4-tutorials/build/CMakeFiles/edit_cache.dir
+/home/juancarlos/Geant4-tutorials/build/CMakeFiles/rebuild_cache.dir
