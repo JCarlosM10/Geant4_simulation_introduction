@@ -73,71 +73,71 @@ CMakeFiles/sim.dir/sim.cc.o: CMakeFiles/sim.dir/flags.make
 CMakeFiles/sim.dir/sim.cc.o: /home/juancarlos/Geant4-tutorials/sim.cc
 CMakeFiles/sim.dir/sim.cc.o: CMakeFiles/sim.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/juancarlos/Geant4-tutorials/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/sim.dir/sim.cc.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/sim.dir/sim.cc.o -MF CMakeFiles/sim.dir/sim.cc.o.d -o CMakeFiles/sim.dir/sim.cc.o -c /home/juancarlos/Geant4-tutorials/sim.cc
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/sim.dir/sim.cc.o -MF CMakeFiles/sim.dir/sim.cc.o.d -o CMakeFiles/sim.dir/sim.cc.o -c /home/juancarlos/Geant4-tutorials/sim.cc
 
 CMakeFiles/sim.dir/sim.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/sim.dir/sim.cc.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/juancarlos/Geant4-tutorials/sim.cc > CMakeFiles/sim.dir/sim.cc.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/juancarlos/Geant4-tutorials/sim.cc > CMakeFiles/sim.dir/sim.cc.i
 
 CMakeFiles/sim.dir/sim.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/sim.dir/sim.cc.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/juancarlos/Geant4-tutorials/sim.cc -o CMakeFiles/sim.dir/sim.cc.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/juancarlos/Geant4-tutorials/sim.cc -o CMakeFiles/sim.dir/sim.cc.s
 
 CMakeFiles/sim.dir/src/PMActionInitialization.cc.o: CMakeFiles/sim.dir/flags.make
 CMakeFiles/sim.dir/src/PMActionInitialization.cc.o: /home/juancarlos/Geant4-tutorials/src/PMActionInitialization.cc
 CMakeFiles/sim.dir/src/PMActionInitialization.cc.o: CMakeFiles/sim.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/juancarlos/Geant4-tutorials/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/sim.dir/src/PMActionInitialization.cc.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/sim.dir/src/PMActionInitialization.cc.o -MF CMakeFiles/sim.dir/src/PMActionInitialization.cc.o.d -o CMakeFiles/sim.dir/src/PMActionInitialization.cc.o -c /home/juancarlos/Geant4-tutorials/src/PMActionInitialization.cc
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/sim.dir/src/PMActionInitialization.cc.o -MF CMakeFiles/sim.dir/src/PMActionInitialization.cc.o.d -o CMakeFiles/sim.dir/src/PMActionInitialization.cc.o -c /home/juancarlos/Geant4-tutorials/src/PMActionInitialization.cc
 
 CMakeFiles/sim.dir/src/PMActionInitialization.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/sim.dir/src/PMActionInitialization.cc.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/juancarlos/Geant4-tutorials/src/PMActionInitialization.cc > CMakeFiles/sim.dir/src/PMActionInitialization.cc.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/juancarlos/Geant4-tutorials/src/PMActionInitialization.cc > CMakeFiles/sim.dir/src/PMActionInitialization.cc.i
 
 CMakeFiles/sim.dir/src/PMActionInitialization.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/sim.dir/src/PMActionInitialization.cc.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/juancarlos/Geant4-tutorials/src/PMActionInitialization.cc -o CMakeFiles/sim.dir/src/PMActionInitialization.cc.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/juancarlos/Geant4-tutorials/src/PMActionInitialization.cc -o CMakeFiles/sim.dir/src/PMActionInitialization.cc.s
 
 CMakeFiles/sim.dir/src/PMDetectorConstruction.cc.o: CMakeFiles/sim.dir/flags.make
 CMakeFiles/sim.dir/src/PMDetectorConstruction.cc.o: /home/juancarlos/Geant4-tutorials/src/PMDetectorConstruction.cc
 CMakeFiles/sim.dir/src/PMDetectorConstruction.cc.o: CMakeFiles/sim.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/juancarlos/Geant4-tutorials/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/sim.dir/src/PMDetectorConstruction.cc.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/sim.dir/src/PMDetectorConstruction.cc.o -MF CMakeFiles/sim.dir/src/PMDetectorConstruction.cc.o.d -o CMakeFiles/sim.dir/src/PMDetectorConstruction.cc.o -c /home/juancarlos/Geant4-tutorials/src/PMDetectorConstruction.cc
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/sim.dir/src/PMDetectorConstruction.cc.o -MF CMakeFiles/sim.dir/src/PMDetectorConstruction.cc.o.d -o CMakeFiles/sim.dir/src/PMDetectorConstruction.cc.o -c /home/juancarlos/Geant4-tutorials/src/PMDetectorConstruction.cc
 
 CMakeFiles/sim.dir/src/PMDetectorConstruction.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/sim.dir/src/PMDetectorConstruction.cc.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/juancarlos/Geant4-tutorials/src/PMDetectorConstruction.cc > CMakeFiles/sim.dir/src/PMDetectorConstruction.cc.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/juancarlos/Geant4-tutorials/src/PMDetectorConstruction.cc > CMakeFiles/sim.dir/src/PMDetectorConstruction.cc.i
 
 CMakeFiles/sim.dir/src/PMDetectorConstruction.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/sim.dir/src/PMDetectorConstruction.cc.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/juancarlos/Geant4-tutorials/src/PMDetectorConstruction.cc -o CMakeFiles/sim.dir/src/PMDetectorConstruction.cc.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/juancarlos/Geant4-tutorials/src/PMDetectorConstruction.cc -o CMakeFiles/sim.dir/src/PMDetectorConstruction.cc.s
 
 CMakeFiles/sim.dir/src/PMPhysicsList.cc.o: CMakeFiles/sim.dir/flags.make
 CMakeFiles/sim.dir/src/PMPhysicsList.cc.o: /home/juancarlos/Geant4-tutorials/src/PMPhysicsList.cc
 CMakeFiles/sim.dir/src/PMPhysicsList.cc.o: CMakeFiles/sim.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/juancarlos/Geant4-tutorials/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/sim.dir/src/PMPhysicsList.cc.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/sim.dir/src/PMPhysicsList.cc.o -MF CMakeFiles/sim.dir/src/PMPhysicsList.cc.o.d -o CMakeFiles/sim.dir/src/PMPhysicsList.cc.o -c /home/juancarlos/Geant4-tutorials/src/PMPhysicsList.cc
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/sim.dir/src/PMPhysicsList.cc.o -MF CMakeFiles/sim.dir/src/PMPhysicsList.cc.o.d -o CMakeFiles/sim.dir/src/PMPhysicsList.cc.o -c /home/juancarlos/Geant4-tutorials/src/PMPhysicsList.cc
 
 CMakeFiles/sim.dir/src/PMPhysicsList.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/sim.dir/src/PMPhysicsList.cc.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/juancarlos/Geant4-tutorials/src/PMPhysicsList.cc > CMakeFiles/sim.dir/src/PMPhysicsList.cc.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/juancarlos/Geant4-tutorials/src/PMPhysicsList.cc > CMakeFiles/sim.dir/src/PMPhysicsList.cc.i
 
 CMakeFiles/sim.dir/src/PMPhysicsList.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/sim.dir/src/PMPhysicsList.cc.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/juancarlos/Geant4-tutorials/src/PMPhysicsList.cc -o CMakeFiles/sim.dir/src/PMPhysicsList.cc.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/juancarlos/Geant4-tutorials/src/PMPhysicsList.cc -o CMakeFiles/sim.dir/src/PMPhysicsList.cc.s
 
 CMakeFiles/sim.dir/src/PMPrimaryGenerator.cc.o: CMakeFiles/sim.dir/flags.make
 CMakeFiles/sim.dir/src/PMPrimaryGenerator.cc.o: /home/juancarlos/Geant4-tutorials/src/PMPrimaryGenerator.cc
 CMakeFiles/sim.dir/src/PMPrimaryGenerator.cc.o: CMakeFiles/sim.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/juancarlos/Geant4-tutorials/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/sim.dir/src/PMPrimaryGenerator.cc.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/sim.dir/src/PMPrimaryGenerator.cc.o -MF CMakeFiles/sim.dir/src/PMPrimaryGenerator.cc.o.d -o CMakeFiles/sim.dir/src/PMPrimaryGenerator.cc.o -c /home/juancarlos/Geant4-tutorials/src/PMPrimaryGenerator.cc
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/sim.dir/src/PMPrimaryGenerator.cc.o -MF CMakeFiles/sim.dir/src/PMPrimaryGenerator.cc.o.d -o CMakeFiles/sim.dir/src/PMPrimaryGenerator.cc.o -c /home/juancarlos/Geant4-tutorials/src/PMPrimaryGenerator.cc
 
 CMakeFiles/sim.dir/src/PMPrimaryGenerator.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/sim.dir/src/PMPrimaryGenerator.cc.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/juancarlos/Geant4-tutorials/src/PMPrimaryGenerator.cc > CMakeFiles/sim.dir/src/PMPrimaryGenerator.cc.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/juancarlos/Geant4-tutorials/src/PMPrimaryGenerator.cc > CMakeFiles/sim.dir/src/PMPrimaryGenerator.cc.i
 
 CMakeFiles/sim.dir/src/PMPrimaryGenerator.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/sim.dir/src/PMPrimaryGenerator.cc.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/juancarlos/Geant4-tutorials/src/PMPrimaryGenerator.cc -o CMakeFiles/sim.dir/src/PMPrimaryGenerator.cc.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/juancarlos/Geant4-tutorials/src/PMPrimaryGenerator.cc -o CMakeFiles/sim.dir/src/PMPrimaryGenerator.cc.s
 
 # Object files for target sim
 sim_OBJECTS = \
