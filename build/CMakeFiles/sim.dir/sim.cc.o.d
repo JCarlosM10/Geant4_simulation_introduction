@@ -633,6 +633,18 @@ CMakeFiles/sim.dir/sim.cc.o: /home/juancarlos/Geant4-tutorials/sim.cc \
  /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4SystemOfUnits.hh \
  /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4UnitsTable.hh \
  /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4UnitsTable.icc \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4VisAttributes.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4Color.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4SDManager.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4HCtable.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4SDStructure.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4VSensitiveDetector.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4CollectionNameVector.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4VReadOutGeometry.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4SensitiveVolumeList.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4VSDFilter.hh \
+ /home/juancarlos/Geant4-tutorials/include/PMSensitiveDetector.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4VSensitiveDetector.hh \
  /home/juancarlos/Geant4-tutorials/include/PMActionInitialization.hh \
  /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4VUserActionInitialization.hh \
  /home/juancarlos/Geant4-tutorials/include/PMPrimaryGenerator.hh \

@@ -1,8 +1,9 @@
-CMakeFiles/sim.dir/src/PMDetectorConstruction.cc.o: \
- /home/juancarlos/Geant4-tutorials/src/PMDetectorConstruction.cc \
+CMakeFiles/sim.dir/src/PMSensitiveDetector.cc.o: \
+ /home/juancarlos/Geant4-tutorials/src/PMSensitiveDetector.cc \
  /usr/include/stdc-predef.h \
- /home/juancarlos/Geant4-tutorials/include/PMDetectorConstruction.hh \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4VUserDetectorConstruction.hh \
+ /home/juancarlos/Geant4-tutorials/include/PMSensitiveDetector.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4VSensitiveDetector.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4CollectionNameVector.hh \
  /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/globals.hh \
  /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4ios.hh \
  /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4Types.hh \
@@ -202,30 +203,18 @@ CMakeFiles/sim.dir/src/PMDetectorConstruction.cc.o: \
  /usr/include/c++/14/bits/stl_vector.h \
  /usr/include/c++/14/bits/stl_bvector.h \
  /usr/include/c++/14/bits/vector.tcc \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4Box.hh \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4GeomTypes.hh \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4GeomConfig.hh \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4CSGSolid.hh \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4VSolid.hh \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/geomdefs.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4HCofThisEvent.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4Allocator.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4AllocatorPool.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4VHitsCollection.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4Step.hh \
  /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4ThreeVector.hh \
  /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/CLHEP/Vector/ThreeVector.h \
  /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/CLHEP/Utility/defs.h \
  /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/CLHEP/Vector/ThreeVector.icc \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4VSolid.icc \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4Polyhedron.hh \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/HepPolyhedron.h \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4TwoVector.hh \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/CLHEP/Vector/TwoVector.h \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/CLHEP/Vector/TwoVector.icc \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4Point3D.hh \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/CLHEP/Geometry/Point3D.h \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/CLHEP/Geometry/BasicVector3D.h \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4Normal3D.hh \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/CLHEP/Geometry/Normal3D.h \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4Transform3D.hh \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/CLHEP/Geometry/Transform3D.h \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/CLHEP/Geometry/Transform3D.icc \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4VPhysicalVolume.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/geomdefs.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4RotationMatrix.hh \
  /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/CLHEP/Vector/Rotation.h \
  /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/CLHEP/Vector/RotationInterfaces.h \
  /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/CLHEP/Vector/LorentzVector.h \
@@ -242,41 +231,58 @@ CMakeFiles/sim.dir/src/PMDetectorConstruction.cc.o: \
  /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/CLHEP/Vector/RotationZ.h \
  /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/CLHEP/Vector/RotationZ.icc \
  /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/CLHEP/Vector/Rotation.icc \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/CLHEP/Geometry/Vector3D.h \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4Visible.hh \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4Visible.icc \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4Box.icc \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4LogicalVolume.hh \
- /usr/include/c++/14/memory \
- /usr/include/c++/14/bits/stl_raw_storage_iter.h \
- /usr/include/c++/14/bits/align.h /usr/include/c++/14/bits/unique_ptr.h \
- /usr/include/c++/14/bits/shared_ptr.h \
- /usr/include/c++/14/bits/shared_ptr_base.h \
- /usr/include/c++/14/bits/allocated_ptr.h \
- /usr/include/c++/14/ext/concurrence.h \
- /usr/include/c++/14/bits/shared_ptr_atomic.h \
- /usr/include/c++/14/bits/atomic_base.h \
- /usr/include/c++/14/bits/atomic_lockfree_defines.h \
- /usr/include/c++/14/backward/auto_ptr.h \
- /usr/include/c++/14/pstl/glue_memory_defs.h \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4Region.hh \
  /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4GeomSplitter.hh \
  /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/geomwdefs.hh \
  /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4AutoLock.hh \
  /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4Threading.hh \
  /usr/include/c++/14/chrono /usr/include/c++/14/condition_variable \
- /usr/include/c++/14/future /usr/include/c++/14/bits/atomic_futex.h \
- /usr/include/c++/14/atomic /usr/include/c++/14/bits/std_function.h \
+ /usr/include/c++/14/bits/shared_ptr.h \
+ /usr/include/c++/14/bits/shared_ptr_base.h \
+ /usr/include/c++/14/bits/allocated_ptr.h \
+ /usr/include/c++/14/bits/unique_ptr.h \
+ /usr/include/c++/14/ext/concurrence.h /usr/include/c++/14/future \
+ /usr/include/c++/14/bits/atomic_base.h \
+ /usr/include/c++/14/bits/atomic_lockfree_defines.h \
+ /usr/include/c++/14/bits/atomic_futex.h /usr/include/c++/14/atomic \
+ /usr/include/c++/14/bits/std_function.h \
  /usr/include/c++/14/bits/std_thread.h /usr/include/c++/14/thread \
  /usr/include/c++/14/bits/this_thread_sleep.h \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4Region.icc \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4VPhysicalVolume.hh \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4RotationMatrix.hh \
  /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4VPhysicalVolume.icc \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4StepPoint.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4SteppingControl.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4StepStatus.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4TouchableHandle.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4VTouchable.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4TouchableHistory.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4NavigationHistory.hh \
+ /usr/include/assert.h \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4AffineTransform.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4Transform3D.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/CLHEP/Geometry/Transform3D.h \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/CLHEP/Geometry/Transform3D.icc \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/CLHEP/Geometry/Point3D.h \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/CLHEP/Geometry/BasicVector3D.h \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/CLHEP/Geometry/Vector3D.h \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/CLHEP/Geometry/Normal3D.h \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4AffineTransform.icc \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4NavigationLevel.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4NavigationLevelRep.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4NavigationLevelRep.icc \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4NavigationLevel.icc \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4NavigationHistoryPool.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4NavigationHistory.icc \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4LogicalVolume.hh \
+ /usr/include/c++/14/memory \
+ /usr/include/c++/14/bits/stl_raw_storage_iter.h \
+ /usr/include/c++/14/bits/align.h \
+ /usr/include/c++/14/bits/shared_ptr_atomic.h \
+ /usr/include/c++/14/backward/auto_ptr.h \
+ /usr/include/c++/14/pstl/glue_memory_defs.h \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4Region.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4Region.icc \
  /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4LogicalVolume.icc \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4VPhysicalVolume.hh \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4NistManager.hh \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4ICRU90StoppingData.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4TouchableHistory.icc \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4ReferenceCountedHandle.hh \
  /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4Material.hh \
  /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4Element.hh \
  /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4ElementTable.hh \
@@ -303,50 +309,6 @@ CMakeFiles/sim.dir/src/PMDetectorConstruction.cc.o: \
  /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4OrderedTable.hh \
  /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4DataVector.hh \
  /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4DataVector.icc \
- /usr/include/assert.h \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4NistElementBuilder.hh \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4NistMaterialBuilder.hh \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4Pow.hh \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4Exp.hh \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4PVPlacement.hh \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4Material.hh \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4SystemOfUnits.hh \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4UnitsTable.hh \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4UnitsTable.icc \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4VisAttributes.hh \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/graphics_reps_defs.hh \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4Colour.hh \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4Color.hh \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4VisAttributes.icc \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4Color.hh \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4SDManager.hh \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4HCtable.hh \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4SDStructure.hh \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4VSensitiveDetector.hh \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4CollectionNameVector.hh \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4HCofThisEvent.hh \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4Allocator.hh \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4AllocatorPool.hh \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4VHitsCollection.hh \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4Step.hh \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4StepPoint.hh \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4SteppingControl.hh \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4StepStatus.hh \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4TouchableHandle.hh \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4VTouchable.hh \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4TouchableHistory.hh \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4NavigationHistory.hh \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4AffineTransform.hh \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4AffineTransform.icc \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4NavigationLevel.hh \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4NavigationLevelRep.hh \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4NavigationLevelRep.icc \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4NavigationLevel.icc \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4NavigationHistoryPool.hh \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4NavigationHistory.icc \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4LogicalVolume.hh \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4TouchableHistory.icc \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4ReferenceCountedHandle.hh \
  /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4StepPoint.icc \
  /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4TrackVector.hh \
  /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4Step.icc \
@@ -370,5 +332,6 @@ CMakeFiles/sim.dir/src/PMDetectorConstruction.cc.o: \
  /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4VReadOutGeometry.hh \
  /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4SensitiveVolumeList.hh \
  /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4VSDFilter.hh \
- /home/juancarlos/Geant4-tutorials/include/PMSensitiveDetector.hh \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4VSensitiveDetector.hh
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4SystemOfUnits.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4UnitsTable.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4UnitsTable.icc

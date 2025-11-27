@@ -13,6 +13,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/juancarlos/Geant4-tutorials/src/PMDetectorConstruction.cc" "CMakeFiles/sim.dir/src/PMDetectorConstruction.cc.o" "gcc" "CMakeFiles/sim.dir/src/PMDetectorConstruction.cc.o.d"
   "/home/juancarlos/Geant4-tutorials/src/PMPhysicsList.cc" "CMakeFiles/sim.dir/src/PMPhysicsList.cc.o" "gcc" "CMakeFiles/sim.dir/src/PMPhysicsList.cc.o.d"
   "/home/juancarlos/Geant4-tutorials/src/PMPrimaryGenerator.cc" "CMakeFiles/sim.dir/src/PMPrimaryGenerator.cc.o" "gcc" "CMakeFiles/sim.dir/src/PMPrimaryGenerator.cc.o.d"
+  "/home/juancarlos/Geant4-tutorials/src/PMSensitiveDetector.cc" "CMakeFiles/sim.dir/src/PMSensitiveDetector.cc.o" "gcc" "CMakeFiles/sim.dir/src/PMSensitiveDetector.cc.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

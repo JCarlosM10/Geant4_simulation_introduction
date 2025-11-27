@@ -262,6 +262,30 @@ src/PMPrimaryGenerator.cc.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/sim.dir/build.make CMakeFiles/sim.dir/src/PMPrimaryGenerator.cc.s
 .PHONY : src/PMPrimaryGenerator.cc.s
 
+src/PMSensitiveDetector.o: src/PMSensitiveDetector.cc.o
+.PHONY : src/PMSensitiveDetector.o
+
+# target to build an object file
+src/PMSensitiveDetector.cc.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/sim.dir/build.make CMakeFiles/sim.dir/src/PMSensitiveDetector.cc.o
+.PHONY : src/PMSensitiveDetector.cc.o
+
+src/PMSensitiveDetector.i: src/PMSensitiveDetector.cc.i
+.PHONY : src/PMSensitiveDetector.i
+
+# target to preprocess a source file
+src/PMSensitiveDetector.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/sim.dir/build.make CMakeFiles/sim.dir/src/PMSensitiveDetector.cc.i
+.PHONY : src/PMSensitiveDetector.cc.i
+
+src/PMSensitiveDetector.s: src/PMSensitiveDetector.cc.s
+.PHONY : src/PMSensitiveDetector.s
+
+# target to generate assembly for a file
+src/PMSensitiveDetector.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/sim.dir/build.make CMakeFiles/sim.dir/src/PMSensitiveDetector.cc.s
+.PHONY : src/PMSensitiveDetector.cc.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -287,6 +311,9 @@ help:
 	@echo "... src/PMPrimaryGenerator.o"
 	@echo "... src/PMPrimaryGenerator.i"
 	@echo "... src/PMPrimaryGenerator.s"
+	@echo "... src/PMSensitiveDetector.o"
+	@echo "... src/PMSensitiveDetector.i"
+	@echo "... src/PMSensitiveDetector.s"
 .PHONY : help
 
 
