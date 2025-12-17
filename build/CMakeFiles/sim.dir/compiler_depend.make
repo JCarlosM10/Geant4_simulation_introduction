@@ -6,6 +6,7 @@ CMakeFiles/sim.dir/sim.cc.o: /home/juancarlos/Geant4-tutorials/sim.cc \
   /home/juancarlos/Geant4-tutorials/include/PMDetectorConstruction.hh \
   /home/juancarlos/Geant4-tutorials/include/PMPhysicsList.hh \
   /home/juancarlos/Geant4-tutorials/include/PMPrimaryGenerator.hh \
+  /home/juancarlos/Geant4-tutorials/include/PMSensitiveDetector.hh \
   /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/CLHEP/Geometry/BasicVector3D.h \
   /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/CLHEP/Geometry/Normal3D.h \
   /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/CLHEP/Geometry/Plane3D.h \
@@ -1063,6 +1064,7 @@ CMakeFiles/sim.dir/src/PMActionInitialization.cc.o: /home/juancarlos/Geant4-tuto
 
 CMakeFiles/sim.dir/src/PMDetectorConstruction.cc.o: /home/juancarlos/Geant4-tutorials/src/PMDetectorConstruction.cc \
   /home/juancarlos/Geant4-tutorials/include/PMDetectorConstruction.hh \
+  /home/juancarlos/Geant4-tutorials/include/PMSensitiveDetector.hh \
   /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/CLHEP/Geometry/BasicVector3D.h \
   /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/CLHEP/Geometry/Normal3D.h \
   /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/CLHEP/Geometry/Point3D.h \
@@ -2606,8 +2608,6 @@ CMakeFiles/sim.dir/src/PMSensitiveDetector.cc.o: /home/juancarlos/Geant4-tutoria
   /usr/lib/gcc/x86_64-redhat-linux/14/include/syslimits.h
 
 
-/home/juancarlos/Geant4-tutorials/include/PMSensitiveDetector.hh:
-
 /home/juancarlos/Geant4-tutorials/src/PMDetectorConstruction.cc:
 
 /home/juancarlos/Geant4-tutorials/src/PMActionInitialization.cc:
@@ -2848,6 +2848,8 @@ CMakeFiles/sim.dir/src/PMSensitiveDetector.cc.o: /home/juancarlos/Geant4-tutoria
 
 /usr/include/c++/14/bits/locale_facets_nonio.tcc:
 
+/usr/include/c++/14/bits/locale_facets_nonio.h:
+
 /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4SmartVoxelNode.hh:
 
 /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/CLHEP/Random/RanluxEngine.h:
@@ -2906,6 +2908,8 @@ CMakeFiles/sim.dir/src/PMSensitiveDetector.cc.o: /home/juancarlos/Geant4-tutoria
 
 /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4RunManagerKernel.hh:
 
+/home/juancarlos/Geant4-tutorials/include/PMSensitiveDetector.hh:
+
 /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4ParameterisedNavigation.hh:
 
 /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/CLHEP/Vector/AxisAngle.h:
@@ -2955,8 +2959,6 @@ CMakeFiles/sim.dir/src/PMSensitiveDetector.cc.o: /home/juancarlos/Geant4-tutoria
 /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4PhysicsTable.hh:
 
 /usr/include/c++/14/bits/basic_string.h:
-
-/home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4PDefManager.hh:
 
 /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4Orb.hh:
 
@@ -3190,6 +3192,16 @@ CMakeFiles/sim.dir/src/PMSensitiveDetector.cc.o: /home/juancarlos/Geant4-tutoria
 
 /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/CLHEP/Random/RandGamma.h:
 
+/home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4GraphicsSystemList.hh:
+
+/usr/include/c++/14/x86_64-redhat-linux/bits/c++io.h:
+
+/usr/include/c++/14/pstl/glue_memory_defs.h:
+
+/home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4SteppingManager.hh:
+
+/home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4UIsession.hh:
+
 /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/CLHEP/Geometry/Transform3D.h:
 
 /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4ParticleTable.hh:
@@ -3240,13 +3252,19 @@ CMakeFiles/sim.dir/src/PMSensitiveDetector.cc.o: /home/juancarlos/Geant4-tutoria
 
 /usr/include/bits/timex.h:
 
+/home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4Vector3D.hh:
+
+/home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/CLHEP/Random/RandChiSquare.h:
+
+/usr/include/c++/14/chrono:
+
+/home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4PhysicsTable.icc:
+
+/home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4TrajectoryModelFactories.hh:
+
 /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/CLHEP/Utility/defs.h:
 
 /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/CLHEP/Geometry/Normal3D.h:
-
-/home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/CLHEP/Random/RandBit.icc:
-
-/home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4VTrajectoryModel.hh:
 
 /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/CLHEP/Random/RandBit.h:
 
@@ -3300,6 +3318,20 @@ CMakeFiles/sim.dir/src/PMSensitiveDetector.cc.o: /home/juancarlos/Geant4-tutoria
 
 /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4ParticleGun.hh:
 
+/home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/CLHEP/Random/RandBit.icc:
+
+/home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4VTrajectoryModel.hh:
+
+/home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4PDefManager.hh:
+
+/usr/include/c++/14/x86_64-redhat-linux/bits/c++locale.h:
+
+/usr/include/c++/14/bits/locale_facets.h:
+
+/home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/CLHEP/Random/RandFlat.icc:
+
+/home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/CLHEP/Random/RandBinomial.icc:
+
 /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4SmartTrackStack.hh:
 
 /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/CLHEP/Random/RandExpZiggurat.h:
@@ -3313,34 +3345,6 @@ CMakeFiles/sim.dir/src/PMSensitiveDetector.cc.o: /home/juancarlos/Geant4-tutoria
 /usr/include/c++/14/cstdint:
 
 /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4DataVector.icc:
-
-/home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4Vector3D.hh:
-
-/home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/CLHEP/Random/RandChiSquare.h:
-
-/usr/include/c++/14/chrono:
-
-/home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4PhysicsTable.icc:
-
-/home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4TrajectoryModelFactories.hh:
-
-/usr/include/c++/14/x86_64-redhat-linux/bits/c++locale.h:
-
-/usr/include/c++/14/bits/locale_facets.h:
-
-/home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/CLHEP/Random/RandBinomial.icc:
-
-/home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/CLHEP/Random/RandFlat.icc:
-
-/home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4GraphicsSystemList.hh:
-
-/usr/include/c++/14/x86_64-redhat-linux/bits/c++io.h:
-
-/usr/include/c++/14/pstl/glue_memory_defs.h:
-
-/home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4SteppingManager.hh:
-
-/home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4UIsession.hh:
 
 /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4ForceCondition.hh:
 
@@ -3376,11 +3380,23 @@ CMakeFiles/sim.dir/src/PMSensitiveDetector.cc.o: /home/juancarlos/Geant4-tutoria
 
 /usr/include/bits/uio_lim.h:
 
+/home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4Orb.icc:
+
+/usr/include/c++/14/bits/memoryfwd.h:
+
+/home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/CLHEP/Random/RandGeneral.h:
+
+/home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4GPILSelection.hh:
+
+/home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4Color.hh:
+
+/home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/CLHEP/Units/SystemOfUnits.h:
+
+/home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/CLHEP/Vector/RotationY.icc:
+
 /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4CSGSolid.hh:
 
 /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/CLHEP/Vector/Rotation.h:
-
-/home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4VSolid.icc:
 
 /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4EnvironmentUtils.hh:
 
@@ -3530,19 +3546,7 @@ CMakeFiles/sim.dir/src/PMSensitiveDetector.cc.o: /home/juancarlos/Geant4-tutoria
 
 /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4Ellipsoid.hh:
 
-/home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4Orb.icc:
-
-/home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4Color.hh:
-
-/home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/CLHEP/Units/SystemOfUnits.h:
-
-/home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/CLHEP/Vector/RotationY.icc:
-
-/usr/include/c++/14/bits/memoryfwd.h:
-
-/home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/CLHEP/Random/RandGeneral.h:
-
-/home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4GPILSelection.hh:
+/home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4VSolid.icc:
 
 /usr/include/c++/14/bits/uses_allocator_args.h:
 
@@ -4079,5 +4083,3 @@ CMakeFiles/sim.dir/src/PMSensitiveDetector.cc.o: /home/juancarlos/Geant4-tutoria
 /usr/include/sys/cdefs.h:
 
 /usr/include/c++/14/bits/list.tcc:
-
-/usr/include/c++/14/bits/locale_facets_nonio.h:

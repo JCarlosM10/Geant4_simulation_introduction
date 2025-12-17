@@ -8,6 +8,7 @@
 /vis/drawVolume
 
 /vis/scene/add/trajectories smooth
-/vis/scene/endOfEventAction accumulate 10
+/vis/scene/endOfEventAction accumulate 100
+
 /vis/scene/add/axes
 /vis/scene/add/eventID
