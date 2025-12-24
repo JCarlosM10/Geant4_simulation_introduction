@@ -645,6 +645,66 @@ CMakeFiles/sim.dir/sim.cc.o: /home/juancarlos/Geant4-tutorials/sim.cc \
  /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4VSDFilter.hh \
  /home/juancarlos/Geant4-tutorials/include/PMSensitiveDetector.hh \
  /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4VSensitiveDetector.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4AnalysisManager.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4GenericAnalysisManager.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4ToolsAnalysisManager.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4VAnalysisManager.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4AnalysisManagerState.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4AnalysisVerbose.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4AnalysisUtilities.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4VTBaseHnManager.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4HnInformation.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4BinScheme.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4Fcn.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4VAnalysisManager.icc \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4HnManager.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4BaseAnalysisManager.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4NtupleBookingManager.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/tools/ntuple_booking \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/tools/cids \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/tools/cid \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/tools/typedefs \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/tools/forit \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4NtupleBookingManager.icc \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4VNtupleManager.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4VFileManager.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4BaseFileManager.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4VTHnFileManager.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4TH1ToolsManager.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4THnToolsManager.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4THnManager.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4THnManager.icc \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4THnMessenger.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4THnToolsManager.icc \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4THnMessenger.icc \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4Tokenizer.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4TH2ToolsManager.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4TH3ToolsManager.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4TP1ToolsManager.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4TP2ToolsManager.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/tools/histo/h1d \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/tools/histo/h1 \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/tools/histo/b1 \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/tools/histo/base_histo \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/tools/histo/histo_data \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/tools/histo/axes \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/tools/histo/axis \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/tools/eqT \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/tools/histo/h2d \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/tools/histo/h2 \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/tools/histo/b2 \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/tools/histo/h3d \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/tools/histo/h3 \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/tools/histo/b3 \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/tools/histo/p1d \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/tools/histo/p1 \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/tools/histo/profile_data \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/tools/histo/p2d \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/tools/histo/p2 \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4ToolsAnalysisManager.icc \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4GenericAnalysisManager.icc \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4GenericFileManager.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4GenericFileManager.icc \
  /home/juancarlos/Geant4-tutorials/include/PMActionInitialization.hh \
  /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4VUserActionInitialization.hh \
  /home/juancarlos/Geant4-tutorials/include/PMPrimaryGenerator.hh \
@@ -652,4 +712,7 @@ CMakeFiles/sim.dir/sim.cc.o: /home/juancarlos/Geant4-tutorials/sim.cc \
  /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4ParticleDefinition.hh \
  /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4ParticleGun.hh \
  /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4VPrimaryGenerator.hh \
- /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4ParticleTable.hh
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4ParticleTable.hh \
+ /home/juancarlos/Geant4-tutorials/include/PMRunAction.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4UserRunAction.hh \
+ /home/juancarlos/Software/Geant4/geant4-v11.3.2-install/include/Geant4/G4Run.hh
